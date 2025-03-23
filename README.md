@@ -1,2 +1,2 @@
 # javascript
-tudo o que eu estou aprendendo sobre javascript em  3 anos do curso full  stack dev da  Fiap School.
+tudo o que eu estou aprendendo sobre javascript em  3 anos do curso full  stack dev da  Fiap School, desde helloworld até array.
